@@ -38,7 +38,7 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🤺🇪🇬👑 Descodia-king*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
+    done: '*here you go!* \n\n*🤺🇪🇬👑 Descodia-king*\n\n*🧩 Bot link:* \nhttps://github.com/Descodia/Bot-whatsapp.git\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
